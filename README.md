@@ -10,12 +10,12 @@ miniproject2 for EC601 in BU
 ## Steps
 ### 1.Choose roses and sunflowers to classify(delete other folders of flowers from the downloaded pictures)
 ### 2.cnn_classify.py
-    (1)read and resize pictures<br>
-    (2)disrupt order<br>
-    (3)divide dataset into train&validation<br>
-    (4)Build the CNN by defining an inference function which builds layers<br>
-    (5)generate model<br>
-    (6)train and validate<br>
+    (1)read and resize pictures
+    (2)disrupt order
+    (3)divide dataset into train&validation
+    (4)Build the CNN by defining an inference function which builds layers
+    (5)generate model
+    (6)train and validate
 ### 3.Result of cnn_classify
    train loss: 1276.465061<br>
    train acc: 0.599826<br>
