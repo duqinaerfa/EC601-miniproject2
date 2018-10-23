@@ -59,3 +59,6 @@ miniproject2 for EC601 in BU
    validation acc: 0.945312<br>
 ### 4.cnn_classify_test.py
 A file which can test the result of cnn_classify
+### 5.Comparison(compare between two different systems based on the literature review you did and/or reading material provided)
+DenseNet & ResNet: DenseNet is generally better as DenseNet architecture is a logical extension of ResNet. ResNet architecture has a fundamental building block where you merge a previous layer into a future layer. Densenet is much more efficient in terms of parameters and computation for the same level of accuracy, compared with resnet.
+
